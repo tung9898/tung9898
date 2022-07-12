@@ -2,9 +2,6 @@
 <h3 align="center">A Year 4 student from HKPolyU</h3>
 
 - 🌱 I’m currently trying to be a **Full stack developer**
-
-- 👨‍💻 All of my projects are available at [@tung9898](@tung9898)
-
 - 📫 You can reach me at +852 9606 6545 (*Whatsapp only*) or **hoyiutung@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
